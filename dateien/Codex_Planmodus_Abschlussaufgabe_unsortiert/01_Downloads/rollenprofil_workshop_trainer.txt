@@ -1,0 +1,14 @@
+Rollenprofil: Trainer fuer KI-Einstiegsworkshop
+
+Aufgaben:
+- Grundlagen einfach erklaeren
+- Praxisbeispiele vorbereiten
+- Teilnehmer durch Uebungen fuehren
+- Datenschutzgrenzen verstaendlich machen
+- Fragen sammeln und nachbereiten
+
+Anforderungen:
+- gute Moderation
+- Erfahrung mit ChatGPT oder aehnlichen Tools
+- Verstaendnis fuer Organisationen im Pflegeumfeld
+- klare, einfache Sprache

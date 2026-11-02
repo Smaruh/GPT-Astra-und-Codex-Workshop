@@ -1,0 +1,16 @@
+Auszug aus einem internen Meeting
+
+Sarah:
+Wir bekommen immer mehr Anfragen von Pflegeeinrichtungen. Die meisten wollen nicht direkt Automatisierung, sondern erstmal verstehen, was moeglich ist.
+
+Max:
+Dann sollten wir das Angebot einfacher machen. Vielleicht ein Einstiegspaket mit Workshop, Checkliste und kurzer Nachbereitung.
+
+Lea:
+Wir brauchen aber auch klare Grenzen. Wenn jemand fragt, ob KI Pflegeberichte mit echten Daten schreiben kann, muessen wir sehr vorsichtig sein.
+
+Sarah:
+Genau. Der erste Use Case sollte eher Organisation sein, nicht medizinische oder pflegerische Entscheidung.
+
+Max:
+Dann bauen wir eine Standardstruktur: Anfrage pruefen, Datenschutzhinweis, Workshop vorschlagen, danach naechste Schritte.

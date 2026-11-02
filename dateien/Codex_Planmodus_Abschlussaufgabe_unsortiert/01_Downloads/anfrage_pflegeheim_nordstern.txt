@@ -1,0 +1,16 @@
+Betreff: Anfrage zur KI-Unterstützung im Pflegeheim Nordstern
+
+Das Pflegeheim Nordstern möchte prüfen, ob KI bei wiederkehrenden Verwaltungsaufgaben helfen kann.
+
+Interessant sind vor allem:
+- schnellere Zusammenfassung von Übergabeprotokollen
+- bessere Vorbereitung von Teamsitzungen
+- Entwürfe für Angehörigenkommunikation
+- einfachere Auswertung von offenen Aufgaben
+
+Wichtig:
+Es sollen keine echten Bewohnerdaten in KI-Systeme eingegeben werden.
+Für erste Tests sollen nur anonymisierte Beispiele genutzt werden.
+
+Nächster Schritt:
+Ein kurzes Erstgespräch mit der Einrichtungsleitung vorbereiten.

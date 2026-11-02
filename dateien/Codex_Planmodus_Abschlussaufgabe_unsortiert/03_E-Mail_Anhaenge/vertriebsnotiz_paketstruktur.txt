@@ -1,0 +1,16 @@
+Vertriebsnotiz Paketstruktur
+
+Problem:
+Kunden fragen oft allgemein nach KI, wissen aber nicht, was sie konkret buchen sollen.
+
+Loesung:
+Ein klares Einstiegspaket mit drei Optionen:
+
+1. Orientierungsgespraech
+2. Basisworkshop
+3. Praxisworkshop plus Nachbereitung
+
+Wichtig:
+Nicht zu viele Optionen anbieten.
+Einfache Sprache nutzen.
+Nutzen klar machen.
